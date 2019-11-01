@@ -197,3 +197,5 @@ rs0:SECONDARY> rs.status()
 rs0:SECONDARY>
 ~~~
 
+
+![](https://github.com/kolchanovavrn/DS_lab9/blob/master/2019-11-01%2021.39.43.jpg)
