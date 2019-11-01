@@ -1,0 +1,14 @@
+rs.initiate()
+rs.status()
+rs.add("server2")
+rs.add("server3")
+rs.status()
+мы в монге тут, да? ;
+rs.status()
+кажется тут
+help
+rs.status()
+давай переконектимся? в смысле к шеллу монги
+davai
+rs.config()
+rs.status()
