@@ -1,6 +1,6 @@
 # DS_lab9
 
-|~~~ 
+~~~ 
 rs0:SECONDARY> rs.config()
 {
  "_id" : "rs0",
@@ -194,5 +194,6 @@ rs0:SECONDARY> rs.status()
  },
  "operationTime" : Timestamp(1572632334, 1)
 }
-rs0:SECONDARY> ~~~
+rs0:SECONDARY>
+~~~
 
